@@ -5,7 +5,7 @@ class Day1
 {
     public static void Main()
     {
-        string path = @"C:\Users\Olivier PC\source\repos\Advent Of Code\2021\Day 1\Day_1_input.txt";
+        string path = @"C:\Users\Olivier PC\source\repos\Advent Of Code\2021\Day 1\input.txt";
 
         try
         {
